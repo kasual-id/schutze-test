@@ -19,56 +19,52 @@
 </head>
 <body>
 <div class="container-fluid h-100">
-    
-  <div class="row width-empty content-1">
+    <div class="row width-empty content-1">
+        <div class="col-lg-1 col-md-12 browser-col-1">
+        </div>
 
-    <div class="col-lg-1 col-md-12 browser-col-1">
+        <div class="col-lg-2 col-md-12 browser-col-1">
+        </div>
+
+        <div class="col-lg-2 col-md-12 browser-col-2">
+
+        </div>
+
+        <div class="col-lg-2 col-md-12 browser-col-3">
+
+        </div>
+
+        <div class="col-lg-2 col-md-12 browser-col-4">
+
+        </div>
+
+        <div class="col-lg-2 col-md-12 browser-col-5">
+
+        </div>
+
+        <div class="col-lg-1 col-md-12 browser-col-5">
+        </div>
     </div>
-
-    <div class="col-lg-2 col-md-12 browser-col-1">
+    <div class="row bg-secondary justify-content-center content-2">
+        <div class="col alert-content">
+            <h4><img class="alert-icon" src="assets/exclamation-triangle.svg" alt="warning"> Your browser <b>Internet Explorer 11</b> is deprecated</h4>
+            <p>Modern browsers protect your device from viruses and support new technologies.</p>
+            <p>That's why we decided to stop supporting your current browser or your browser version. To access our website, please download one one of the browser below.</p>
+            <button class="btn btn-secondary button-text">How do i update my browser?</button>
+        </div>
     </div>
+    <div class="row justify-content-center content-3">
 
-    <div class="col-lg-2 col-md-12 browser-col-2">
+        <div class="col-lg-1 col-md-12 browser-col-1">
+        </div>
 
-    </div>
-
-    <div class="col-lg-2 col-md-12 browser-col-3">
-
-    </div>
-
-    <div class="col-lg-2 col-md-12 browser-col-4">
-
-    </div>
-
-    <div class="col-lg-2 col-md-12 browser-col-5">
-
-    </div>
-
-    <div class="col-lg-1 col-md-12 browser-col-5">
-    </div>
-    </div>
-  <div class="row bg-secondary justify-content-center content-2">
-    <div class="col alert-content">
-      <h4><img class="alert-icon" src="assets/exclamation-triangle.svg" alt=""> Your browser <b>Internet Explorer 11</b> is deprecated</h4>
-      <p>Modern browsers protect your device from viruses and support new technologies.</p>
-      <p>That's why we decided to stop supporting your current browser or your browser version. To access our website, please download one one of the browser below.</p>
-      <button class="btn btn-secondary button-text">How do i update my browser?</button>
-    </div>
-  </div>
-  <div class="row justify-content-center content-3">
-
-    <div class="col-lg-1 col-md-12 browser-col-1">
-
-    </div>
-
-    <div class="col-lg-2 col-md-12 browser-col-1">
-        <div class="row">
-            <div class="col-lg-12 col-sm-3 col-3">
-                <div class="frame">
-                    <span class="helper"></span>
-                    <img class="browser-icon" src="assets/chrome.svg" alt="">
-
-                </div>
+        <div class="col-lg-2 col-md-12 browser-col-1">
+            <div class="row">
+                <div class="col-lg-12 col-sm-3 col-3">
+                    <div class="frame">
+                        <span class="helper"></span>
+                        <img class="browser-icon" src="assets/chrome.svg" alt="">
+                    </div>
             </div>
             <div class="col-lg-12 col-sm-7 col-6">
                 <p class="lead"><b>GOOGLE CHROME</b></p> 
